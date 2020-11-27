@@ -12,4 +12,6 @@ bindkey -v
 # End of lines configured by zsh-newuser-install
 
 # Startof custom alias added by jankov
+
+# dotfiles setup inspired by https://news.ycombinator.com/item?id=11071754
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
